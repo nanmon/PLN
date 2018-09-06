@@ -1,0 +1,120 @@
+La '''lista de las 100 mejores películas del siglo XXI''' es una recopilación publicada en agosto de 2016 por la [[BBC]] y realizada con los votos de 177 críticos de cine de todo el mundo. La lista se armó mediante listas de las diez mejores películas estrenadas después del año 2000 según cada uno de los críticos.
+
+== Criterio de selección ==
+El periodo de tiempo se limitó a películas estrenadas desde enero de 2000 hasta julio de 2016 (cuando se recolectaron las respuestas). A cada filme incluido en las listas se lo puntuó de acuerdo a su posición en el ''ranking''. Por ejemplo, si una película de uno de los críticos ocupaba el primer lugar, entonces recibía diez puntos, mientras que si ocupaba el décimo lugar, recibía un punto.<ref name=facts>{{cita web|título=Surprising facts from the 100 greatest films of the 21st Century|url=http://www.bbc.com/culture/story/20160802-100-greatest-films-of-the-21st-century-infographic|editorial=BBC|fechaacceso=15 de enero de 2018}}</ref> La lista final tiene 102 títulos debido al empate entre ''[[Carlos (película de 2010)|Carlos]]'', ''[[Requiem for a Dream]]'' y ''[[Toni Erdmann]]'' en las posición número cien. Los directores con mayor cantidad de películas en la lista fueron [[Apichatpong Weerasethakul]], [[Christopher Nolan]], [[Wes Anderson]], [[Paul Thomas Anderson]], [[Michael Haneke]] y los [[hermanos Coen]] con tres cada uno.<ref name=facts/> La preselección contó con 599 títulos en total.<ref>{{cita web|apellido=Brown|nombre=Mark|título=Mulholland Drive leads the pack in list of 21st century's top films|url=https://www.theguardian.com/film/2016/aug/23/mulholland-drive-david-lynch-21st-century-top-films-bbc-poll|obra=[[The Guardian]]|idioma=inglés|fecha=23 de agosto de 2016|fechaacceso=15 de enero de 2018}}</ref>
+
+En la votación participaron 177 críticos en total, provenientes de 36 países, la mayoría de ellos de [[Estados Unidos]] y, en segundo lugar, del [[Reino Unido]]. De los 177, 122 son hombres y 55 mujeres,<ref>{{cita web|título=BBC - Culture - The 21st Century's 1-- Greatest Films: Who Voted?|url=http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films-who-voted|editorial=BBC|fecha=23 de agosto de 2016|fechaacceso=15 de enero de 2018}}</ref> principalmente de críticos de periódicos o revistas, sitios web de cine, académicos y curadores de cine.<ref>{{cita web|título=The 21st Century's 100 Greatest Films|url=http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films|editorial=BBC|idioma=inglés|fecha=23 de agosto de 2016|fechaacceso=15 de enero de 2018}}</ref>
+
+== Lista completa ==
+{| class="wikitable sortable"
+! N.º !! Título !! Director !! Año </tr>
+| 1 || ''[[Mulholland Drive (película)|Mulholland Drive]]'' || [[David Lynch]] <td> 2001 </tr>
+| 2 || ''[[Fa yeung nin wa]]'' || [[Wong Kar-wai]] || 2000 </tr>
+| 3 || ''[[There Will Be Blood]]'' || [[Paul Thomas Anderson]] || 2007 </tr>
+| 4 || ''[[El viaje de Chihiro]]'' || [[Hayao Miyazaki]] || 2001 </tr>
+| 5 || ''[[Boyhood]]'' || [[Richard Linklater]] || 2014 </tr>
+| 6 || ''[[Eternal Sunshine of the Spotless Mind]]'' || [[Michel Gondry]] || 2004 </tr>
+| 7 || ''[[El árbol de la vida (película de 2011)|El árbol de la vida]]'' || [[Terrence Malick]] || 2011 </tr>
+| 8 || ''[[Yi Yi]]'' || [[Edward Yang]] || 2000 </tr>
+| 9 || ''[[Yodaí-e Nader az Simín]]'' || [[Asghar Farhadi]] || 2011 </tr>
+| 10 || ''[[No Country for Old Men]]'' || [[Hermanos Coen]] || 2007 </tr>
+| 11 || ''[[Inside Llewyn Davis]]'' || [[Hermanos Coen]] || 2013 </tr>
+| 12 || ''[[Zodiac (película)|Zodiac]]'' || [[David Fincher]] || 2007 </tr>
+| 13 || ''[[Children of Men]]'' || [[Alfonso Cuaron]] || 2006 </tr>
+| 14 || ''[[The Act of Killing]]'' || Joshua Oppenheimer || 2012 </tr>
+| 15 || ''[[4 meses, 3 semanas, 2 días]]'' || [[Cristian Mungiu]] || 2007 </tr>
+| 16 || ''[[Holy Motors]]'' || [[Leos Carax]] || 2012 </tr>
+| 17 || ''[[El laberinto del fauno]]'' || [[Guillermo del Toro]] || 2006 </tr>
+| 18 || ''[[La cinta blanca]]'' || [[Michael Haneke]] || 2009 </tr>
+| 19 || ''[[Mad Max: Fury Road]]'' || [[George Miller]] || 2015 </tr>
+| 20 || ''[[Synecdoche, New York]]'' || [[Charlie Kaufman]] || 2008 </tr>
+| 21 || ''[[El Gran Hotel Budapest]]'' || [[Wes Anderson]] || 2014 </tr>
+| 22 || ''[[Lost in Translation]]'' || [[Sofia Coppola]] || 2003 </tr>
+| 23 || ''[[Caché (película)|Caché]]'' || [[Michael Haneke]] || 2005 </tr>
+| 24 || ''[[The Master (película de 2012)|The Master]]'' || [[Paul Thomas Anderson]] || 2012 </tr>
+| 25 || ''[[Memento]]'' || [[Christopher Nolan]] || 2001 </tr>
+| 26 || ''[[25th Hour]]'' || [[Spike Lee]] || 2002 </tr>
+| 27 || ''[[The Social Network]]'' || [[David Fincher]] || 2010 </tr>
+| 28 || ''[[Hable con ella]]'' || [[Pedro Almodóvar]] || 2002 </tr>
+| 29 || ''[[WALL·E]]'' || [[Andrew Stanton]] || 2008 </tr>
+| 30 || ''[[Oldboy (película de 2003)|Oldboy]]'' || [[Park Chan-wook]] || 2003 </tr>
+| 31 || ''[[Margaret (película)|Margaret]]'' || [[Kenneth Lonergan]] || 2011 </tr>
+| 32 || ''[[La vida de los otros]]'' || [[Florian Henckel von Donnersmarck]] || 2006 </tr>
+| 33 || ''[[The Dark Knight]]'' || [[Christopher Nolan]] || 2008 </tr>
+| 34 || ''[[El hijo de Saúl]]'' || [[László Nemes]] || 2015 </tr>
+| 35 || ''[[Wò hǔ cáng lóng]]'' || [[Ang Lee]] || 2000 </tr>
+| 36 || ''[[Timbuktu (película)|Timbuktu]]'' || Abderrahmane Sissako || 2014 </tr>
+| 37 || ''[[El tío Boonmee que recuerda sus vidas pasadas]]'' || [[Apichatpong Weerasethakul]] || 2010 </tr>
+| 38 || ''[[Ciudad de Dios]]'' || [[Fernando Meirelles]] y [[Kátia Lund]] || 2002 </tr>
+| 39 || ''[[El nuevo mundo]]'' || [[Terrence Malick]] || 2005 </tr>
+| 40 || ''[[Brokeback Mountain]]'' || [[Ang Lee]] || 2005 </tr>
+| 41 || ''[[Inside Out (película de 2015)|Inside Out]]'' || [[Pete Docter]] || 2015 </tr>
+| 42 || ''[[Amor (película de 2012)|Amor]]'' || [[Michael Haneke]] || 2012 </tr>
+| 43 || ''[[Melancolía (película)|Melancolía]]'' || [[Lars von Trier]] || 2011 </tr>
+| 44 || ''[[12 años de esclavitud]]'' || [[Steve McQueen (director)|Steve McQueen]] || 2013 </tr>
+| 45 || ''[[La vida de Adèle]]'' || [[Abdellatif Kechiche]] || 2013 </tr>
+| 46 || ''[[Copia certificada]]'' || [[Abbas Kiarostami]] || 2010 </tr>
+| 47 || ''[[Leviatán (película de 2014)|Leviatán]]'' || [[Andrey Zvyagintsev]] || 2014 </tr>
+| 48 || ''[[Brooklyn (película de 2015)|Brooklyn]]'' || [[John Crowley (director)|John Crowley]] || 2015 </tr>
+| 49 || ''Adieu au Langage'' || [[Jean-Luc Godard]] || 2014 </tr>
+| 50 || ''[[The Assassin]]'' || Hou Hsiao-hsien || 2015 </tr>
+| 51 || ''[[Inception]]'' || [[Christopher Nolan]] || 2010 </tr>
+| 52 || ''[[Tropical Malady]]'' || [[Apichatpong Weerasethakul]] || 2004 </tr>
+| 53 || ''[[Moulin Rouge!]]'' || [[Baz Luhrmann]] || 2001 </tr>
+| 54 || ''[[Érase una vez en Anatolia]]'' || [[Nuri Bilge Ceylan]] || 2011 </tr>
+| 55 || ''[[Ida (película)|Ida]]'' || Paweł Pawlikowski || 2013 </tr>
+| 56 || ''Werckmeister harmóniák'' || [[Béla Tarr]] y [[Ágnes Hranitzky]] || 2000 </tr>
+| 57 || ''[[La noche más oscura (película)|La noche más oscura]]'' || [[Kathryn Bigelow]] || 2012 </tr>
+| 58 || ''[[Moolaadé]]'' || [[Ousmane Sembène]] || 2004 </tr>
+| 59 || ''[[A History of Violence]]'' || [[David Cronenberg]] || 2005 </tr>
+| 60 || ''Sang sattawat'' || [[Apichatpong Weerasethakul]] || 2006 </tr>
+| 61 || ''[[Under the Skin (película de 2013)|Under the Skin]]'' || [[Jonathan Glazer]] || 2013 </tr>
+| 62 || ''[[Inglourious Basterds]]'' || [[Quentin Tarantino]] || 2009 </tr>
+| 63 || ''[[El caballo de Turín]]'' || [[Béla Tarr]] y [[Ágnes Hranitzky]] || 2011 </tr>
+| 64 || ''[[La gran belleza]]'' || [[Paolo Sorrentino]] || 2013 </tr>
+| 65 || ''[[Fish Tank]]'' || Andrea Arnold || 2009 </tr>
+| 66 || ''[[Bom yeoreum gaeul gyeoul geurigo bom]]'' || [[Kim Ki-duk]] || 2003 </tr>
+| 67 || ''[[The Hurt Locker]]'' || [[Kathryn Bigelow]] || 2008 </tr>
+| 68 || ''[[The Royal Tenenbaums]]'' || [[Wes Anderson]] || 2001 </tr>
+| 69 || ''[[Carol (película)|Carol]]'' || [[Todd Haynes]] || 2015 </tr>
+| 70 || ''Stories We Tell'' || [[Sarah Polley]] || 2012 </tr>
+| 71 || ''[[Tabú (película)|Tabú]]'' || [[Miguel Gomes (director de cine)|Miguel Gomes]] || 2012 </tr>
+| 72 || ''[[Sólo los amantes sobreviven]]'' || [[Jim Jarmusch]] || 2013 </tr>
+| 73 || ''[[Antes del atardecer]]'' || [[Richard Linklater]] || 2004 </tr>
+| 74 || ''[[Spring Breakers (película)|Spring Breakers]]'' || [[Harmony Korine]] || 2012 </tr>
+| 75 || ''[[Inherent Vice (película)|Inherent Vice]]'' || [[Paul Thomas Anderson]] || 2014 </tr>
+| 76 || ''[[Dogville]]'' || [[Lars von Trier]] || 2003 </tr>
+| 77 || ''[[Le Scaphandre et le Papillon (película)|Le Scaphandre et le Papillon]]'' || [[Julian Schnabel]] || 2007 </tr>
+| 78 || ''[[El lobo de Wall Street]]'' || [[Martin Scorsese]] || 2013 </tr>
+| 79 || ''[[Almost Famous]]'' || [[Cameron Crowe]] || 2000 </tr>
+| 80 || ''[[El regreso (película de 2003)|El regreso]]'' || [[Andrey Zvyagintsev]] || 2003 </tr>
+| 81 || ''[[Shame (película)|Shame]]'' || [[Steve McQueen (director)|Steve McQueen]] || 2011 </tr>
+| 82 || ''[[A Serious Man]]'' || [[Hermanos Coen]] || 2009 </tr>
+| 83 || ''[[A.I. Inteligencia artificial]]'' || [[Steven Spielberg]] || 2001 </tr>
+| 84 || ''[[Her]]'' || [[Spike Jonze]] || 2013 </tr>
+| 85 || ''[[Un profeta]]'' || [[Jacques Audiard]] || 2009 </tr>
+| 86 || ''[[Far from Heaven]]'' || [[Todd Haynes]] || 2002 </tr>
+| 87 || ''[[Amélie]]'' || [[Jean-Pierre Jeunet]] || 2001 </tr>
+| 88 || ''[[Spotlight]]'' || [[Thomas McCarthy|Tom McCarthy]] || 2015 </tr>
+| 89 || ''[[La mujer sin cabeza]]'' || [[Lucrecia Martel]] || 2008 </tr>
+| 90 || ''[[El pianista]]'' || [[Roman Polanski]] || 2002 </tr>
+| 91 || ''[[El secreto de sus ojos]]'' || [[Juan José Campanella]] || 2009 </tr>
+| 92 || ''[[El asesinato de Jesse James por el cobarde Robert Ford]]'' || [[Andrew Dominik]] || 2007 </tr>
+| 93 || ''[[Ratatouille (película)|Ratatouille]]'' || [[Brad Bird]] || 2007 </tr>
+| 94 || ''[[Låt den rätte komma in]]'' || [[Tomas Alfredson]] || 2008 </tr>
+| 95 || ''[[Moonrise Kingdom]]'' || [[Wes Anderson]] || 2012 </tr>
+| 96 || ''[[Buscando a Nemo]]'' || [[Andrew Stanton]] || 2003 </tr>
+| 97 || ''White Material'' || [[Claire Denis]] || 2009 </tr>
+| 98 || ''Ten'' || [[Abbas Kiarostami]] || 2002 </tr>
+| 99 || ''[[Les glaneurs et la glaneuse]]'' || [[Agnès Varda]] || 2000 </tr>
+| 100 || ''[[Carlos (película de 2010)|Carlos]]'' || [[Olivier Assayas]] || 2010 </tr>
+| 100 || ''[[Requiem for a Dream]]'' || [[Darren Aronofsky]] || 2000 </tr>
+| 100 || ''[[Toni Erdmann]]'' || Maren Ade || 2016 </tr>
+|}
+
+== Referencias ==
+{{listaref}}
+
+{{Traducido ref|en|BBC's 100 Greatest Films of the 21st Century|oldid=816877879}}
+
+[[Categoría:BBC]]
